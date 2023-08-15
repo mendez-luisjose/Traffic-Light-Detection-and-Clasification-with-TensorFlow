@@ -17,5 +17,5 @@ Traffic Light Datasets:
 
 - https://www.kaggle.com/datasets/sachsene/carla-traffic-lights-images
 
--Traffic Light Classification Model:
--https://drive.google.com/file/d/17cbVavxS0xmDFvZm7bn7mVqS3BAUuSN8/view?usp=sharing
+Traffic Light Classification Model:
+- https://drive.google.com/file/d/17cbVavxS0xmDFvZm7bn7mVqS3BAUuSN8/view?usp=sharing
